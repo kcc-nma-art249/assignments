@@ -22,19 +22,23 @@ A site map is a list or diagram which represents the hierarchy & structure of th
 ## Wireframes
 A wireframe is a grayscale block diagram that illustrates the overall navigation and the blocks of elements such as content, function, and more. Represents a skeletal framework of a website.
 
-![Site Map Screenshot](http://i.imgur.com/CMRSaCL.png)
+![Wireframes Screenshot](http://i.imgur.com/CMRSaCL.png)
 
 
 ## Interactive Wireframes
 Traditional wireframes (flat images) and paper prototypes are great tools to communicate to both clients and internal team members how an interface might look structurally, but they can potentially fall short in both determining and communicating the user experience. One quick and efficient tool is to create interactive wireframes. They have multiple advantages, such as acting as an early prototype to help designers and developers determine best practices for increased usabiltity.
 
-### Invision
+### InVision
 [InVision](http://www.invisionapp.com/) allows designers to build interactive, high-fidelity, realistic web and mobile mockups and prototypes.
+
+![Interactive Wireframes with InVision](http://i.imgur.com/o2zXoOA.gif)
 
 
 ## Homework:
+Please add links to the following on your class `art249` website.
 - **Site Map** – Due: Monday, September 07, 2015 11:59PM
 - **Wireframes** – Due: Monday, September 07, 2015 11:59PM
+- **Interactive Wireframes** – Due: Monday, September 07, 2015 11:59PM
 
 
 ### Reference
