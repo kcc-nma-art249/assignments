@@ -32,11 +32,11 @@ What type face works for your client. See different type comabinations and what 
 ### Inspiration
 Look for website inspirations. See what other people are doing on the web. Find things you may want to do.
 
-- [Awwwards](Awwwards.com)
-- [One Page Love](onepagelove.com)
-- [CSS Design Awards](cssdesignawards.com)
-- [Site Inspire](siteinsipre.com)
-- [Dribbble](dribbble.com)
+- [Awwwards](http://Awwwards.com)
+- [One Page Love](http://onepagelove.com)
+- [CSS Design Awards](http://cssdesignawards.com)
+- [Site Inspire](http://siteinspire.com)
+- [Dribbble](http://dribbble.com)
 - [More..](http://lmgtfy.com/?q=website+inspiration)
 
 
