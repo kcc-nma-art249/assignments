@@ -5,8 +5,20 @@ Based upon your research, your creative brief, site map, and wireframes, choose 
 Your three thematic directions should be:
 
   1. Low Risk: Corporate/Professional
+      - [Endeavour Capital](http://ecap.co.nz/)
+      - [By Form](http://www.by-form.net/)
+      - [MetaLab](http://metalab.co/)
+      - [Hangar](http://www.madebyhangar.com/)
   1. Mid Risk: "Fun-yet-Functional"
+      - [Paradox](http://paradoxcreates.com/)
+      - [A day in Big Data](http://adayinbigdata.com/)
+      - [Yeedor](http://www.yeedor.com/)
+      - [Mixd](http://www.mixd.co.uk/)
+      - [Sketchin](http://www.sketchin.ch/en/)
   1. High Risk: Experimental/wild
+      - [McWhopper](http://mcwhopper.com/)
+      - [Bose](http://special.bose.eu/en/)
+      - [C Roots](http://www.c-roots.com/)
 
 
 ## Purpose/Objective
