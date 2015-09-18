@@ -9,16 +9,28 @@ Your three thematic directions should be:
       - [By Form](http://www.by-form.net/)
       - [MetaLab](http://metalab.co/)
       - [Hangar](http://www.madebyhangar.com/)
+      - [Dropboost](http://dropboost.com/)
+      - [Weltunit](http://weltunit.com/)
+      - [Joyride Coffee](http://www.joyridecoffeedistributors.com/)
   1. Mid Risk: "Fun-yet-Functional"
       - [Paradox](http://paradoxcreates.com/)
       - [A day in Big Data](http://adayinbigdata.com/)
       - [Yeedor](http://www.yeedor.com/)
       - [Mixd](http://www.mixd.co.uk/)
       - [Sketchin](http://www.sketchin.ch/en/)
+      - [oak](http://oak.is/)
+      - [Gc watches](http://gcwatches.com/en/)
+      - [Grow](http://www.thisisgrow.com/feed)
+      - [Living Edge](http://livingedge.com.au/)
   1. High Risk: Experimental/wild
       - [McWhopper](http://mcwhopper.com/)
       - [Bose](http://special.bose.eu/en/)
       - [C Roots](http://www.c-roots.com/)
+      - [#hue](http://www.hue.pl/)
+      - [gilgul](http://gilgul.co.il/eng.html)
+      - [Rosebud](http://rosebudkitchen.com/)
+      - [Culinaria](http://culinariafoodandwine.com/)
+      - [Marie Catrib's](http://mariecatribs.com/)
 
 
 ## Purpose/Objective
