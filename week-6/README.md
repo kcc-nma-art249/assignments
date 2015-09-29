@@ -40,14 +40,21 @@ Keep your project organized by creating dividers to split your designs into sect
 Share a private URL to get feedback on your project. Make sure to allow access and commenting to all screens in the project.
 
 1. Log in to your Projects dashboard and select art 249 project
-1. View design screen you want to share                                  
-  ![View Design](http://i.imgur.com/95enFpP.png)
+1. View design screen you want to share
+
+   ![View Design](http://i.imgur.com/95enFpP.png)
+
 1. At the bottom right corner you should see a Share button, click that
-  ![Share](http://i.imgur.com/uegk0oR.png)
+
+   ![Share](http://i.imgur.com/uegk0oR.png)
+
 1. Make sure commenting on screens & access to all screens in project is turned on
-  ![Commenting Access](http://i.imgur.com/w8hgcQO.png)
+
+   ![Commenting Access](http://i.imgur.com/w8hgcQO.png)
+
 1. Copy private URL to share
-  ![Copy URL](http://i.imgur.com/AKQQSEl.png)
+
+   ![Copy URL](http://i.imgur.com/AKQQSEl.png)
 
 
 ## Homework:
